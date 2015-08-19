@@ -4,5 +4,5 @@ applications:
   memory: 512M
   instances: 1
   host: spring-music-jenkins
-  path: build/libs/spring-music.war
+  path: build/libs/spring-music-1.0.war
 

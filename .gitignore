@@ -4,6 +4,7 @@
 *.iws
 *~
 .idea/
+*~
 
 .project
 .metadata

@@ -1,8 +1,7 @@
 ---
 applications:
-- name: spring-music
+- name: spring-music-v1
   memory: 512M
   instances: 1
   host: b-spring-music
   path: build/libs/spring-music-1.0.war
-
